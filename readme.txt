@@ -16,12 +16,12 @@ Once activated the Plugin allows you to do things like drag/drop widgets into wi
 
 Full list of iPad activated WordPress admin pages:
 
-Admin dashboard: Drag to re-order admin dashboard widgets.
-Widgets page: Drag new widget instances into widget areas, and sort existing widgets.
-New posts/pages: Drag to re-order meta boxes on new post/pages.
-Edit posts/pages: Drag to re-order meta boxes on existing post/pages.
-Navigation menu page: Drag to re-order meta boxes, and individual menu items to change position/hierarchy.
-Add new links page: Drag to re-order meta boxes (Note: the first three meta boxes are fixed by WordPress but the others are sortable). 
+* Admin dashboard - Drag to re-order admin dashboard widgets.
+* Widgets page - Drag new widget instances into widget areas, and sort existing widgets.
+* New posts/pages - Drag to re-order meta boxes on new post/pages.
+* Edit posts/pages - Drag to re-order meta boxes on existing post/pages.
+* Navigation menu page - Drag to re-order meta boxes, and individual menu items to change position/hierarchy.
+* Add new links page - Drag to re-order meta boxes (Note: the first three meta boxes are fixed by WordPress but the others are sortable).
 
 Plugin options allow you to turn the touch punch library on/off, and optionally enable it on the front end of your site. You might want to do this if you have sortable items that you wish to be re-ordered using iPad touch gestures!
 
